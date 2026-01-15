@@ -6,14 +6,14 @@ Repositório de estudos práticos com **LangChain** e **LangGraph** para constru
 
 ---
 
-## ✅ Pré-requisitos
+## Pré-requisitos
 
 - **Python**: use a versão indicada em `.python-version`
 - Recomendado: **uv** (gerenciamento de ambiente e dependências), já que o repositório possui `uv.lock`
 
 ---
 
-## ⚙️ Setup rápido (com `uv`)
+## Setup rápido (com `uv`)
 
 1) Clone o repositório:
 
@@ -42,7 +42,7 @@ Troque `ex001` por `ex002` conforme for avançando.
 
 ---
 
-# ⚙️ Setup alternativo (sem `uv`)
+# Setup alternativo (sem `uv`)
 
 Se preferir `venv` + `pip`:
 ```
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 ---
 
-# 📂 Estrutura atual do projeto
+# Estrutura atual do projeto
 
 ```
 .
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ---
 
-# 📈 Evolução
+# Evolução
 
 Este repositório é voltado para estudos práticos e será expandido com novos exemplos, explorando conceitos como:
 - Chains
@@ -91,3 +91,13 @@ Este repositório é voltado para estudos práticos e será expandido com novos 
 - Ferramentas (tool calling)
 - Pipelines inteligentes
 - Grafos de execução com LangGraph
+
+---
+
+# Links úteis
+
+ Link de acesso a documentações.
+
+- [UV](https://docs.astral.sh/uv/getting-started/installation/)
+- [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
+- [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
